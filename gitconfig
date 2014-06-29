@@ -25,3 +25,6 @@
   template = ~/.gitmessage
 [fetch]
   prune = true
+[user]
+	name = Karl Greunke
+	email = karl@freelance-tech.com
